@@ -1,6 +1,6 @@
 # projeto_perguntas
 
-A new Flutter project.
+Repositório para estudo de Flutter/Dart.
 
 ## Getting Started
 
